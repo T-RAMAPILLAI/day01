@@ -1,0 +1,6 @@
+Write a blog on Difference between HTTP1.1 vs HTTP2
+
+1.In HTTP/1.1 those asset requests are queued and requested one at a time.
+
+2.HTTP/2 -  Using multiplexing, the browser effectively requests the assets together, and 
+then receives them in the same way, all on the same connection.
